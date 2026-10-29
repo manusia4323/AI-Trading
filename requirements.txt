@@ -1,0 +1,5 @@
+MetaTrader5
+mt5-mcp
+pandas 
+numpy 
+matplotlib
