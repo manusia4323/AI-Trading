@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+yfinance
+MetaTrader5
+pytest
+httpx2
+sqlalchemy
